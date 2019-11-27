@@ -1,0 +1,35 @@
+    .columna {
+        float: left;
+        margin-right: 1em;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 1em;
+        overflow: hidden;
+    }
+    
+    .aside_derecha .contenido {
+        width: 74.5%;
+        padding: 2em;
+    }
+    
+    .aside_derecha .aside {
+        background-color: rgba(163, 218, 206, 0.788);
+        width: 23.5%;
+        padding: 2em;
+        text-align: center;
+    }
+    
+    .aside li {
+        list-style-type: none;
+    }
+    
+    .aside li a {
+        text-decoration: none;
+    }
+    
+    .aside_derecha .contenido main {
+        margin: 1em;
+        padding: 2em;
+        background: rgb(37, 92, 75);
+        background: linear-gradient(193deg, rgba(37, 92, 75, 0.9023984593837535) 22%, rgba(35, 145, 111, 0.8071603641456583) 56%, rgba(107, 212, 179, 0.8463760504201681) 88%);
+    }
