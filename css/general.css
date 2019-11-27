@@ -23,7 +23,7 @@ nav {
 }
 
 .parallax {
-    background-image: url('img/parallax.jpg');
+    background-image: url('https://raw.githubusercontent.com/Ruiz19746/CSS/master/img/parallax.jpg');
     height: 200px;
     background-attachment: fixed;
     background-position: center;
@@ -47,6 +47,7 @@ header .logo {
 
 header .titulo {
     font-size: 2em;
+    color: #286955;
 }
 
 .menu {
